@@ -1,0 +1,6 @@
+#+title: Juliet C/C++ 数据集，简化版
+#+date: <2024-01-11 Thu 21:10>
+#+author: thebesttv
+
+1. 下载原始 Juliet 数据集: =2017-10-01-juliet-test-suite-for-c-cplusplus-v1-3.zip=
+2. 运行 =prepare-juliet.sh= 即可
